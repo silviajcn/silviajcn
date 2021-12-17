@@ -1,4 +1,4 @@
-### Hi, and welcome to my profile, I'm Silvia - aka SilviaJCN 👋
+### Hi, and welcome to my profile, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
 
 <!--
 **silviajcn/silviajcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
