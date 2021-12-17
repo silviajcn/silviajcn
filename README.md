@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-**silviajcn/silviajcn**
-
 #### FrontEnd Development
 
 ##### Connect with me:
