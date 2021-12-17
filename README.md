@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### Tengo conocimientos sobre:
 
 ##### Programming languages
-JavaScript, Php, TypeScript, SQL
+JavaScript
 
 ##### FrontEnd Development
 JavaScript, HTML, CSS, Bootstrap
