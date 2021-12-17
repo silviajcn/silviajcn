@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
 #### FrontEnd Development 💻♨️
 
-Tengo conocimientos sobre:
+#####Tengo conocimientos sobre:
 Programming languages
 JavaScript, Php, TypeScript, SQL
 
-FrontEnd Development
+#####FrontEnd Development
 JavaScript, HTML, CSS, Bootstrap
 
 <!--Database
 MySQL, MariaDB, mongoDB, PostgreSQL-->
 
-Others
+#####Others
 FireBase, Postman, Git y Github...
 
-##### Connect with me:
+#### Connect with me:
