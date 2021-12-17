@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 #### FrontEnd Development 💻♨️
 
-##### Tengo conocimientos sobre:
-Programming languages
+#### Tengo conocimientos sobre:
+
+##### Programming languages
 JavaScript, Php, TypeScript, SQL
 
 ##### FrontEnd Development
