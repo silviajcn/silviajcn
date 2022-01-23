@@ -1,5 +1,7 @@
 ### Hi, and welcome to my profile, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
 
+<img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://res.cloudinary.com/silviajcn/image/upload/v1642976639/Perfil%20Usuarios/img_vkdwuz.svg" />
+
 <!--
 **silviajcn/silviajcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
