@@ -10,7 +10,7 @@
 - 🥅 2022 & 2023 Goals:
   - Get my first job as a front-end developer. 🔥
   - Improve my english and learn italian. 😍
-- ⚡ Fun fact: I love read and working out.
+- ⚡ Fun fact: I love read and workouts.
 - 🌍 Currently living in Colombia.
 
 
