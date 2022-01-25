@@ -8,7 +8,7 @@
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 & 2023 Goals:
-  - Get my first job as a front-end developer. 🔥
+  - Get my first job as a Front-End developer. 🔥
   - Improve my english and learn italian. 😍
 - ⚡ Fun fact: I love read and workouts.
 - 🌍 Currently living in Colombia.
