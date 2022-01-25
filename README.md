@@ -31,9 +31,9 @@
 [<img align="left" alt="Firebase" width="26px" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078307/GitHub/firebase_logo-1_t2dzez.png" />]()
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Redux" width="26px" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078389/GitHub/redux_wbfrmv.png" />]()
 <br />
 
+[<img align="left" alt="Redux" width="26px" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078389/GitHub/redux_wbfrmv.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
@@ -50,7 +50,7 @@
 ### 📕 Literary Hobbies
 
 <!-- BLOG-POST-LIST:START -->
-- [Vomité un Conejito Blog](https://estebmaister.wordpress.com/2020/08/13/example-title-for-github/)
+- [Vomité un Conejito Blog](https://vomiteunconejito.wordpress.com/)
 - [Vomité un Conejito on Twitter](https://twitter.com/vomitunconejito)
 - [Silvi's Library](https://silvislibrary.wordpress.com/)
 <!-- BLOG-POST-LIST:END -->
