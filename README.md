@@ -14,7 +14,7 @@
 - 🌍 Currently living in Colombia.
 
 
-### ✨ Connect with me ✨:
+### Connect with me:
 
 [<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mi-portafolio-personal.vercel.app/)
 [<img align="left" alt="silvijcn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lectoramigrante)
@@ -23,7 +23,7 @@
 
 <br />
 
-### ✨ Languages and Tools ✨:
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
@@ -50,7 +50,7 @@
 ### 📕 Literary Hobbies
 
 <!-- BLOG-POST-LIST:START -->
-- [Example title for github](https://estebmaister.wordpress.com/2020/08/13/example-title-for-github/)
+- [Vomité un Conejito Blog](https://estebmaister.wordpress.com/2020/08/13/example-title-for-github/)
 - [Vomité un Conejito on Twitter](https://twitter.com/vomitunconejito)
 - [Silvi's Library](https://silvislibrary.wordpress.com/)
 <!-- BLOG-POST-LIST:END -->
