@@ -1,37 +1,56 @@
 ### Hi, and welcome to my profile, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
 
-<img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://res.cloudinary.com/silviajcn/image/upload/v1642976639/Perfil%20Usuarios/img_vkdwuz.svg" />
+## I'm a FrontEnd Developer and  reader! 💻♨️ 
 
-<!--
-**silviajcn/silviajcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="35%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1642976639/Perfil%20Usuarios/img_vkdwuz.svg" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently study in [Academia Geek](https://academiageek.co/).
+- 🌱 I’m constantly learning new technologies.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 & 2023 Goals:
+  - Get my first job as a front-end developer. 🔥
+  - Improve my english and learn italian. 😍
+- ⚡ Fun fact: I love read and working out.
+- 🌍 Currently living in Colombia.
 
 
-#### FrontEnd Development 💻♨️
+### ✨ Connect with me ✨:
 
-#### Tengo conocimientos sobre:
+[<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mi-portafolio-personal.vercel.app/)
+[<img align="left" alt="silvijcn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lectoramigrante)
+[<img align="left" alt="silviajcn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/silvia-corrales-navarro-0489a49b/)
+[<img align="left" alt="silviajcn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/silviajcn27/)
 
-##### Programming languages
-JavaScript
+<br />
 
-##### FrontEnd Development
-JavaScript, HTML, CSS, Bootstrap
+### ✨ Languages and Tools ✨:
 
-<!--Database
-MySQL, MariaDB, mongoDB, PostgreSQL-->
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
+[<img align="left" alt="Firebase" width="26px" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078307/GitHub/firebase_logo-1_t2dzez.png" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+[<img align="left" alt="Redux" width="26px" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078389/GitHub/redux_wbfrmv.png" />]()
+<br />
 
-##### Others
-FireBase, Postman, Git y Github...
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+[<img align="left" alt="Bootstrap" width="26px" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078521/GitHub/bootstrapu_dvka2e.png" />]()
 
-#### Connect with me:
+<br />
+<br />
+
+---
+
+<details>
+<summary align="center"> <b> <samp> see more </samp></b></summary>
+
+### 📕 Literary Hobbies
+
+<!-- BLOG-POST-LIST:START -->
+- [Example title for github](https://estebmaister.wordpress.com/2020/08/13/example-title-for-github/)
+- [Vomité un Conejito on Twitter](https://twitter.com/vomitunconejito)
+- [Silvi's Library](https://silvislibrary.wordpress.com/)
+<!-- BLOG-POST-LIST:END -->
