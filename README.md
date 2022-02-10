@@ -4,12 +4,12 @@
 
 <img width="40%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1644501338/GitHub/silvi_ftob1i.png" />
 
-- 🔭 I’m currently study in [Academia Geek](https://academiageek.co/).
+- 🔭 I’m currently learn React Native.
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 & 2023 Goals:
   - Get my first job as a Front-End developer. 🔥
-  - Learn React Native and Golang language. 🤓
+  - Learn and Golang language. 🤓
   - Create a page as a library to record my readings. 📚
   - Improve my english and learn italian. 😍
 - ⚡ Fun fact: I love read and workouts.
