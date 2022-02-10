@@ -2,7 +2,7 @@
 
 ## I'm a FrontEnd Developer and  reader! 💻♨️ 
 
-<img width="35%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1642976639/Perfil%20Usuarios/img_vkdwuz.svg" />
+<img width="35%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1644501338/GitHub/silvi_ftob1i.png" />
 
 - 🔭 I’m currently study in [Academia Geek](https://academiageek.co/).
 - 🌱 I’m constantly learning new technologies.
