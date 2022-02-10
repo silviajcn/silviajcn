@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 & 2023 Goals:
   - Get my first job as a Front-End developer. 🔥
-  - Learn and Golang language. 🤓
+  - Learn Golang language. 🤓
   - Create a page as a library to record my readings. 📚
   - Improve my english and learn italian. 😍
 - ⚡ Fun fact: I love read and workouts.
