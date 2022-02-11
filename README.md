@@ -2,7 +2,7 @@
 
 ## I'm a FrontEnd Developer and  reader! 💻♨️ 
 
-<img width="40%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1644501338/GitHub/silvi_ftob1i.png" />
+<img width="40%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1644606841/GitHub/silvi-img_trf1vi.png" />
 
 - 🔭 I’m currently learn React Native.
 - 🌱 I’m constantly learning new technologies.
