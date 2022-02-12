@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently learn React Native.
 - 🌱 I’m constantly learning new technologies.
-- 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 & 2023 Goals:
   - Get my first job as a Front-End developer. 🔥
   - Learn Golang language. 🤓
