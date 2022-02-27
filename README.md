@@ -46,6 +46,8 @@
 ### GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviajcn&hide=contribs,prs&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact)](https://github.com/silviajcn)
+
 ---
 
 <details>
