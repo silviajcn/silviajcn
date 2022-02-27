@@ -14,16 +14,6 @@
 - ⚡ Fun fact: I love read and workouts.
 - 🌍 Currently living in Colombia.
 
-
-### Connect with me:
-
-[<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mi-portafolio-personal.vercel.app/)
-[<img align="left" alt="silvijcn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lectoramigrante)
-[<img align="left" alt="silviajcn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/silvia-corrales-navarro-0489a49b/)
-[<img align="left" alt="silviajcn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/silviajcn27/)
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
@@ -47,6 +37,15 @@
 
 ### GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviajcn&count_private=true&hide=contribs,prs&show_icons=true)
+
+### Connect with me:
+
+[<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mi-portafolio-personal.vercel.app/)
+[<img align="left" alt="silvijcn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lectoramigrante)
+[<img align="left" alt="silviajcn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/silvia-corrales-navarro-0489a49b/)
+[<img align="left" alt="silviajcn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/silviajcn27/)
+
+<br />
 
 ---
 
