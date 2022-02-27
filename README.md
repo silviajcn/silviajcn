@@ -41,8 +41,8 @@
 ### Connect with me:
 
 [<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mi-portafolio-personal.vercel.app/)
-[<img align="left" alt="silvijcn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lectoramigrante)
 [<img align="left" alt="silviajcn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/silvia-corrales-navarro-0489a49b/)
+[<img align="left" alt="silvijcn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lectoramigrante)
 [<img align="left" alt="silviajcn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/silviajcn27/)
 
 <br />
