@@ -1,6 +1,6 @@
 ### Hi, and welcome to my profile, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
 
-## I'm a FrontEnd Developer and  reader! 💻♨️ 
+## I'm a FrontEnd Developer and  reader! 💻📚
 
 <img width="40%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1644606841/GitHub/silvi-img_trf1vi.png" />
 
