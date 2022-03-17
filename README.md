@@ -1,16 +1,18 @@
-### Hi, and welcome to my profile, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
+# Hi, and welcome to my profile, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
 
 ## I'm a FrontEnd Developer and  reader! 💻📚
 
 <img width="40%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1644606841/GitHub/silvi-img_trf1vi.png" />
 
 - 🔭 I’m currently learn React and React Native.
-- 🌱 I’m constantly learning new technologies.
+- 🖱 I’m constantly learning new technologies.
 - 🥅 2022 & 2023 Goals:
-  - Get my first job as a Front-End developer. 🔥
-  - Learn Golang language. 🤓
+  - Get my first job as a Front-End developer. 🔥 ✅ 
   - Create a page as a library to record my readings. 📚
-  - Improve my english and learn italian. 😍
+  - Improve my english. 😍
+- 💫 Future goals:
+  - Learn TypeScript & Golang language. 🤓
+  - Learn italian. 😍
 - ⚡ Fun fact: I love read and workouts.
 - 🌍 Currently living in Colombia.
 
