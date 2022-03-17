@@ -4,7 +4,7 @@
 
 <img width="40%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1644606841/GitHub/silvi-img_trf1vi.png" />
 
-- 🔭 I’m currently learn React Native.
+- 🔭 I’m currently learn React and React Native.
 - 🌱 I’m constantly learning new technologies.
 - 🥅 2022 & 2023 Goals:
   - Get my first job as a Front-End developer. 🔥
