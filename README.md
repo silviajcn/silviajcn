@@ -11,7 +11,7 @@
   - Create a page as a library to record my readings. 📚
   - Improve my english. 😍
 - 💫 Future goals:
-  - Learn TypeScript & Golang language. 🤓
+  - Learn SQL, TypeScript & Golang language. 🤓
   - Learn italian. 😍
 - ⚡ Fun fact: I love read and workouts.
 - 🌍 Currently living in Colombia.
