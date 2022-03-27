@@ -1,7 +1,7 @@
 # Hi, and welcome to my profile, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+FrontEnd+Developer+and+Reader)](https://git.io/typing-svg) 💻📚
-// [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+a+FrontEnd+Developer+and+Reader)](https://git.io/typing-svg)
+[//]: [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+a+FrontEnd+Developer+and+Reader)](https://git.io/typing-svg)
 
 <img width="40%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1644606841/GitHub/silvi-img_trf1vi.png" />
 
