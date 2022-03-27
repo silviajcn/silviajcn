@@ -15,6 +15,8 @@
 - ⚡ Fun fact: I love read and workouts.
 - 🌍 Currently living in Colombia.
 
+![](https://komarev.com/ghpvc/?username=silviajcn&color=blue)
+
 ### Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact)](https://github.com/silviajcn)
