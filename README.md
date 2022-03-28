@@ -33,10 +33,10 @@
 [<img align="left" alt="CSS3" width="26px" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="Bootstrap" width="26px" title="Bootstrap" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078521/GitHub/bootstrapu_dvka2e.png" />]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact)](https://github.com/silviajcn)
+<br />
+<br />
 
-<br />
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact)](https://github.com/silviajcn)
 
 ### GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviajcn&count_private=true&hide=contribs,prs&show_icons=true)
