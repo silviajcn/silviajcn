@@ -64,7 +64,7 @@
     </td>
     <td align="center" width="90">
         <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323266/GitHub/material-ui-1_de6n1p.svg" width="48" height="48" alt="Material Ui" />
-      <br>Material Ui
+      <br>MaterialUi
     </td>
     <td align="center"  width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
