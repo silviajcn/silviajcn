@@ -19,21 +19,93 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="Node.js" width="26px" title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
-[<img align="left" alt="React" width="26px" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
-[<img align="left" alt="Firebase" width="26px" title="Firebase" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078307/GitHub/firebase_logo-1_t2dzez.png" />]()
-[<img align="left" alt="Git" width="26px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-<br />
-
-[<img align="left" alt="Redux" width="26px" title="Redux" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078389/GitHub/redux_wbfrmv.png" />]()
-[<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="Bootstrap" width="26px" title="Bootstrap" src="https://res.cloudinary.com/silviajcn/image/upload/v1643078521/GitHub/bootstrapu_dvka2e.png" />]()
-
-<br />
+<table >
+  <tr>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center"  width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
+      <br>Node
+    </td>
+    <td align="center" width="90">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323366/GitHub/redux_gxvg9a.png" width="45" height="45" alt="Redux" />
+      <br>Redux
+    </td>
+  </tr>
+  </table>
+  
+  <table >
+  <tr>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323266/GitHub/material-ui-1_de6n1p.svg" width="48" height="48" alt="Material Ui" />
+      <br>Material Ui
+    </td>
+    <td align="center"  width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="45" height="45" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" />
+      <br>MarkDown
+    </td>
+  </tr>
+  </table>
+  
+  <table >
+   <tr>
+    <td align="center" width="90">
+        <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center"  width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
+      <br>Trello
+    </td>
+    <td align="center" width="90">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png" width="48" height="48" alt="SQLServer" />
+      <br>SQLServer
+    </td>
+  </tr>
+   
+</table>
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact)](https://github.com/silviajcn)
