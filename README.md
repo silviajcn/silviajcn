@@ -55,6 +55,10 @@
       <br>CSS
     </td>
     <td align="center" width="90">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650325645/GitHub/sc_gboguv.png" width="48" height="48" alt="Styled Components" />
+      <br>StyledComponents
+    </td>
+    <td align="center" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
