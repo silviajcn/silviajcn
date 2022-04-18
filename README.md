@@ -91,6 +91,10 @@
         <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650325451/GitHub/heroku_gz4f6n.png" width="48" height="48" alt="Heroku" />
       <br>Heroku
     </td>
+     <td align="center" width="90">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png" width="48" height="48" alt="SQLServer" />
+      <br>SQLServer
+    </td>
     <td align="center" width="90">
         <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify" />
       <br>Netlify
@@ -107,12 +111,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
       <br>Trello
     </td>
-    <td align="center" width="90">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png" width="48" height="48" alt="SQLServer" />
-      <br>SQLServer
-    </td>
-  </tr>
-   
+  </tr> 
 </table>
 <br />
 
