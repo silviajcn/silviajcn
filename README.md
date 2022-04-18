@@ -37,10 +37,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
     <td align="center"  width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
       <br>Node
@@ -83,6 +79,14 @@
   
   <table >
    <tr>
+     <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+     <td align="center" width="90">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650325451/GitHub/heroku_gz4f6n.png" width="48" height="48" alt="Heroku" />
+      <br>Heroku
+    </td>
     <td align="center" width="90">
         <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify" />
       <br>Netlify
