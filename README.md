@@ -100,7 +100,7 @@
       <br>Netlify
     </td>
     <td align="center" width="70">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VS Code" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" />
       <br>VS Code
     </td>
     <td align="center" width="60">
