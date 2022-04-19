@@ -21,28 +21,28 @@
 
 <table >
   <tr>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+    <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" alt="React" />
       <br>React
     </td>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+    <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+    <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+    <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center"  width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
+    <td align="center"  width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node" />
       <br>Node
     </td>
-    <td align="center" width="90">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323366/GitHub/redux_gxvg9a.png" width="45" height="45" alt="Redux" />
+    <td align="center" width="60">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323366/GitHub/redux_gxvg9a.png" width="35" height="35" alt="Redux" />
       <br>Redux
     </td>
   </tr>
@@ -50,32 +50,32 @@
   
   <table >
   <tr>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
+    <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="90">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650325645/GitHub/sc_gboguv.png" width="48" height="48" alt="Styled Components" />
+    <td align="center" width="60">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650325645/GitHub/sc_gboguv.png" width="35" height="35" alt="Styled Components" />
       <br>StyledComponents
     </td>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+    <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35" height="35" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="90">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323266/GitHub/material-ui-1_de6n1p.svg" width="48" height="48" alt="Material Ui" />
+    <td align="center" width="60">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323266/GitHub/material-ui-1_de6n1p.svg" width="35" height="35" alt="Material Ui" />
       <br>MaterialUi
     </td>
-    <td align="center"  width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+    <td align="center"  width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="45" height="45" alt="GitHub" />
+    <td align="center" width="60">
+        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="35" height="35" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" />
+    <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="35" height="35" alt="Markdown" />
       <br>MarkDown
     </td>
   </tr>
@@ -83,32 +83,32 @@
   
   <table >
    <tr>
-     <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+     <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" height="35" alt="Firebase" />
       <br>Firebase
     </td>
-     <td align="center" width="90">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650325451/GitHub/heroku_gz4f6n.png" width="48" height="48" alt="Heroku" />
+     <td align="center" width="60">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650325451/GitHub/heroku_gz4f6n.png" width="35" height="35" alt="Heroku" />
       <br>Heroku
     </td>
-     <td align="center" width="90">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png" width="48" height="48" alt="SQLServer" />
+     <td align="center" width="60">
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png" width="35" height="35" alt="SQLServer" />
       <br>SQLServer
     </td>
-    <td align="center" width="90">
-        <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify" />
+    <td align="center" width="60">
+        <img src="https://www.netlify.com/v3/img/components/logomark.png" width="35" height="35" alt="Netlify" />
       <br>Netlify
     </td>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+    <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VS Code" />
       <br>VS Code
     </td>
-    <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+    <td align="center" width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35" alt="Figma" />
       <br>Figma
     </td>
-    <td align="center"  width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
+    <td align="center"  width="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="35" height="35" alt="Trello" />
       <br>Trello
     </td>
   </tr> 
