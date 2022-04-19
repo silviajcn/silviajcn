@@ -92,14 +92,14 @@
       <br>Heroku
     </td>
      <td align="center" width="60">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png" width="35" height="35" alt="SQLServer" />
+        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png" width="45" height="45" alt="SQLServer" />
       <br>SQLServer
     </td>
     <td align="center" width="60">
         <img src="https://www.netlify.com/v3/img/components/logomark.png" width="35" height="35" alt="Netlify" />
       <br>Netlify
     </td>
-    <td align="center" width="60">
+    <td align="center" width="70">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VS Code" />
       <br>VS Code
     </td>
