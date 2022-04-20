@@ -1,4 +1,4 @@
-# Hi, and welcome to my profile, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
+# Hi, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+FrontEnd+Developer+and+Reader+)](https://git.io/typing-svg)
 
@@ -14,8 +14,6 @@
   - Learn italian. 😍
 - ⚡ Fun fact: I love read and workouts.
 - 🌍 Currently living in Colombia.
-
-![](https://komarev.com/ghpvc/?username=silviajcn&color=blue)
 
 ### Languages and Tools:
 
@@ -101,7 +99,7 @@
     </td>
     <td align="center" width="70">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" />
-      <br>VS Code
+      <br>VSCode
     </td>
     <td align="center" width="60">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35" alt="Figma" />
@@ -122,10 +120,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mi-portafolio-personal.vercel.app/)
-[<img align="left" alt="silviajcn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/silvia-corrales-navarro-0489a49b/)
-[<img align="left" alt="silvijcn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lectoramigrante)
-[<img align="left" alt="silviajcn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/silviajcn27/)
+[<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="portfolio"/>](https://mi-portafolio-personal.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-silviajcn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviajcn/)](https://www.linkedin.com/in/silviajcn/)
+[![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
+[![Instagram Badge](https://img.shields.io/badge/-@silviajcn27-ff69b4?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/silviajcn27/)](https://www.instagram.com/silviajcn27/)
+![](https://komarev.com/ghpvc/?username=silviajcn&color=blue)
+
 
 <br />
 
