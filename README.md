@@ -1,122 +1,52 @@
-# Hi, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn) 👋
+# Hi, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+FrontEnd+Developer+and+Reader+)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://github.com/silviajcn"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviajcn&show_icons=true&theme=dracula&hide=contribs,prs&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact&theme=dracula"/>
+</div> <br />
 
-<img width="40%" align="right" style="margin-right:5%" alt="Developer" src="https://res.cloudinary.com/silviajcn/image/upload/v1644606841/GitHub/silvi-img_trf1vi.png" />
-
-- 💻 I’m currently learn React and SQL.
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+FrontEnd+Developer+and+Reader+)](https://git.io/typing-svg) -->
+  
+- 💻 I’m currently learn React, C# and SQL.
 - 🥅 2022 & 2023 Goals:
   - Get my first job as a Front-End developer. 🔥 ✅ 
   - Create a page as a library to record my readings. 📚
   - Improve my english. 😍
 - 💫 Future goals:
-  - Learn React Native, TypeScript & Golang language. 🤓
+  - Learn .NET, React Native, TypeScript & Golang language. 🤓
   - Learn italian. 😍
 - ⚡ Fun fact: I love read and workouts.
 - 🌍 Currently living in Colombia.
-
+  
 ### Languages and Tools:
-
-<table >
-  <tr>
-    <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center"  width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node" />
-      <br>Node
-    </td>
-    <td align="center" width="60">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323366/GitHub/redux_gxvg9a.png" width="35" height="35" alt="Redux" />
-      <br>Redux
-    </td>
-  </tr>
-  </table>
   
-  <table >
-  <tr>
-    <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="60">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650325645/GitHub/sc_gboguv.png" width="35" height="35" alt="Styled Components" />
-      <br>StyledComponents
-    </td>
-    <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35" height="35" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="60">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323266/GitHub/material-ui-1_de6n1p.svg" width="35" height="35" alt="Material Ui" />
-      <br>MaterialUi
-    </td>
-    <td align="center"  width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="60">
-        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="35" height="35" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="35" height="35" alt="Markdown" />
-      <br>MarkDown
-    </td>
-  </tr>
-  </table>
+<div style="display: inline_block">
+  <img align="center" alt="Javascript" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Csharp" title="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" title="Redux" height="30" src="https://res.cloudinary.com/silviajcn/image/upload/v1650323366/GitHub/redux_gxvg9a.png">
+  <img align="center" alt="SQL Server" title="SQL Server" height="35" width="40" src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png">
+</div>
   
-  <table >
-   <tr>
-     <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" height="35" alt="Firebase" />
-      <br>Firebase
-    </td>
-     <td align="center" width="60">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650325451/GitHub/heroku_gz4f6n.png" width="35" height="35" alt="Heroku" />
-      <br>Heroku
-    </td>
-     <td align="center" width="60">
-        <img src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png" width="45" height="45" alt="SQLServer" />
-      <br>SQLServer
-    </td>
-    <td align="center" width="60">
-        <img src="https://www.netlify.com/v3/img/components/logomark.png" width="35" height="35" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td align="center" width="70">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" />
-      <br>VSCode
-    </td>
-    <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center"  width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="35" height="35" alt="Trello" />
-      <br>Trello
-    </td>
-  </tr> 
-</table>
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact)](https://github.com/silviajcn)
-
-### GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviajcn&count_private=true&hide=contribs,prs&show_icons=true)
+<div style="display: inline_block"><br />
+  <img align="center" alt="Styled Components" title="Styled Components" height="30" src="https://res.cloudinary.com/silviajcn/image/upload/v1650325645/GitHub/sc_gboguv.png">
+  <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Material Ui" title="Material Ui" height="30" src="https://res.cloudinary.com/silviajcn/image/upload/v1650323266/GitHub/material-ui-1_de6n1p.svg">
+  <img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" title="GitHub" height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+  <img align="center" alt="MarkDown" title="MarkDown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+  <img align="center" alt="Firebase" title="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Heroku" title="Heroku" height="30" src="https://res.cloudinary.com/silviajcn/image/upload/v1650325451/GitHub/heroku_gz4f6n.png">
+</div>
+  
+<div style="display: inline_block"><br />
+  <img align="center" alt="VS Code" title="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Figma" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Trello" title="Trello" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+</div><br />
 
 ### Connect with me:
 
