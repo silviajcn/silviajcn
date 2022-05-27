@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/silviajcn"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviajcn&show_icons=true&theme=dracula&hide=contribs,prs&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silviajcn&show_icons=true&theme=dracula&hide=contribs,prs&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact&theme=dracula"/>
 </div> <br />
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+FrontEnd+Developer+and+Reader+)](https://git.io/typing-svg) -->
@@ -28,7 +28,6 @@
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" title="Redux" height="30" src="https://res.cloudinary.com/silviajcn/image/upload/v1650323366/GitHub/redux_gxvg9a.png">
-  <img align="center" alt="SQL Server" title="SQL Server" height="35" width="40" src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png">
 </div>
   
 <div style="display: inline_block"><br />
@@ -38,11 +37,12 @@
   <img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" title="GitHub" height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
   <img align="center" alt="MarkDown" title="MarkDown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-  <img align="center" alt="Firebase" title="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Heroku" title="Heroku" height="30" src="https://res.cloudinary.com/silviajcn/image/upload/v1650325451/GitHub/heroku_gz4f6n.png">
 </div>
   
 <div style="display: inline_block"><br />
+  <img align="center" alt="SQL Server" title="SQL Server" height="35" width="40" src="https://res.cloudinary.com/silviajcn/image/upload/v1650323369/GitHub/sql-server-logo_wjn9s7.png">
+  <img align="center" alt="Firebase" title="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Heroku" title="Heroku" height="30" src="https://res.cloudinary.com/silviajcn/image/upload/v1650325451/GitHub/heroku_gz4f6n.png">
   <img align="center" alt="VS Code" title="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Figma" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Trello" title="Trello" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
