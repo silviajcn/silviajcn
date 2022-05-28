@@ -3,8 +3,8 @@
 <div align="center">
   <a href="https://github.com/silviajcn"></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silviajcn&show_icons=true&theme=dracula&hide=contribs,prs&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact&theme=dracula"/>
-</div> <br />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact&langs_count=5&theme=dracula"/>
+</div> 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+FrontEnd+Developer+and+Reader+)](https://git.io/typing-svg) -->
   
