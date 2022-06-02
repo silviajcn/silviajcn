@@ -8,7 +8,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+FrontEnd+Developer+and+Reader+)](https://git.io/typing-svg) -->
   
-- 💻 I’m currently learn React, C# and SQL.
+- 💻 I’m currently learn C# and SQL.
 - 🥅 2022 & 2023 Goals:
   - Get my first job as a Front-End developer. 🔥 ✅ 
   - Create a page as a library to record my readings. 📚
