@@ -56,7 +56,7 @@ For some years now, several programming friends recommended me to learn web deve
 
 ### Connect with me:
 
-[<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="portfolio"/>](https://mi-portafolio-personal.vercel.app/)
+[<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="portfolio"/>](https://silviajcn.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-silviajcn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviajcn/)](https://www.linkedin.com/in/silviajcn/)
 [![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
 [![Instagram Badge](https://img.shields.io/badge/-@silviajcn27-ff69b4?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/silviajcn27/)](https://www.instagram.com/silviajcn27/)
