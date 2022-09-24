@@ -8,7 +8,7 @@ For some years now, several programming friends recommended me to learn web deve
 
 - 💻 I’m currently learn C#, .NET and SQL.
 - 🥅 2022 & 2023 Goals:
- <!-- - Get my first job as a Front-End developer. 🔥 ✅  -->
+<!-- - Get my first job as a Front-End developer. 🔥 ✅  -->
   - Create a page as a library to record my readings. 📚
   - Improve my english. 😍
 - 💫 Future goals:
