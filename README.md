@@ -1,4 +1,21 @@
-# Hi, I'm Silvia - aka [SilviaJCN](https://github.com/silviajcn)
+# Hello world! 👋
+
+My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!✨
+
+### About me 👩‍💻
+
+For some years now, several programming friends recommended me to learn web development because they sensed that I would like this career... that was a start. The seed of the idea grew in me until in mid-2020 during the COVID-19 pandemic I said to myself "this is the time!" and started learning on my own, then in 2021 I started Academy Geek bootcamp where I learned a lot about Front End.
+
+- 💻 I’m currently learn C#, .NET and SQL.
+- 🥅 2022 & 2023 Goals:
+ <!-- - Get my first job as a Front-End developer. 🔥 ✅  -->
+  - Create a page as a library to record my readings. 📚
+  - Improve my english. 😍
+- 💫 Future goals:
+  - Learn React Native, TypeScript & Golang language. 🤓
+  - Learn italian. 😍
+- ⚡ Fun fact: I love read and workouts.
+<!-- - 🌍 Currently living in Colombia.-->
 
 <div align="center">
   <a href="https://github.com/silviajcn"></a>
@@ -7,17 +24,6 @@
 </div> 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+FrontEnd+Developer+and+Reader+)](https://git.io/typing-svg) -->
-  
-- 💻 I’m currently learn C#, .NET and SQL.
-- 🥅 2022 & 2023 Goals:
-  - Get my first job as a Front-End developer. 🔥 ✅ 
-  - Create a page as a library to record my readings. 📚
-  - Improve my english. 😍
-- 💫 Future goals:
-  - Learn React Native, TypeScript & Golang language. 🤓
-  - Learn italian. 😍
-- ⚡ Fun fact: I love read and workouts.
-- 🌍 Currently living in Colombia.
   
 ### Languages and Tools:
   
