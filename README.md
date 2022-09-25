@@ -4,7 +4,7 @@ My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!�
 
 ### About me 👩‍💻
 
-For some years now, several programming friends recommended me to learn web development because they sensed that I would like this career... that was a start. The seed of the idea grew in me until in mid-2020 during the COVID-19 pandemic I said to myself "this is the time!" and started learning on my own, then in 2021 I started Academy Geek bootcamp where I learned a lot about Front End.
+From some years now, several programming friends recommended me to learn web development because they sensed that I would like this career... that was a start. The seed of the idea grew in me until in mid-2020 during the COVID-19 pandemic I said to myself "this is the time!" and started learning on my own, then in 2021 I started Academy Geek bootcamp where I learned a lot about Front End.
 
 - 💻 I’m currently learn C#, .NET and SQL.
 - 🥅 2022 & 2023 Goals:
