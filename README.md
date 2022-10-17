@@ -2,6 +2,8 @@
 
 My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!✨
 
+<img width="18%" align="right" style="margin-right:5%" alt="maki" src="https://res.cloudinary.com/silviajcn/image/upload/v1666027824/Mi%20Portafolio/maki_1_lh7wy9.png" />
+
 ### About me 👩‍💻
 
 - 💻 I’m currently learn C#, .NET and SQL.
