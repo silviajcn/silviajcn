@@ -2,7 +2,7 @@
 
 My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!✨
 
-<img width="18%" align="right" style="margin-right:5%" alt="maki" src="https://res.cloudinary.com/silviajcn/image/upload/v1666147842/Mi%20Portafolio/dibujo_bum8sb.svg" />
+<img width="18%" align="right" style="margin-right:5%" alt="maki" src="https://res.cloudinary.com/silviajcn/image/upload/v1666148035/Mi%20Portafolio/dibujo_kogdc3.png" />
 
 ### About me 👩‍💻
 
