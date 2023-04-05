@@ -6,12 +6,12 @@ My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!�
 
 ### About me 👩‍💻
 
-- 💻 I’m currently learn C#, .NET and SQL.
+- 💻 I’m currently learn Databases and TypeScript.
 - 🥅 2022 & 2023 Goals:
   - Create a page as a library to record my readings. 📚
   - Improve my english. 😍
 - 💫 Future goals:
-  - Learn React Native, TypeScript & Golang language. 🤓
+  - Learn React Native & Golang language. 🤓
   - Learn italian. 😍
 - ⚡ Fun fact: I love read and workouts.
 <!-- - 🌍 Currently living in Colombia.-->
@@ -59,7 +59,7 @@ My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!�
 [<img align="left" alt="silviajcn.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://silviajcn.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-silviajcn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviajcn/)](https://www.linkedin.com/in/silviajcn/)
 [![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
-[![Instagram Badge](https://img.shields.io/badge/-@silviajcn27-ff69b4?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/silviajcn27/)](https://www.instagram.com/silviajcn27/)
+<!--[![Instagram Badge](https://img.shields.io/badge/-@silviajcn27-ff69b4?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/silviajcn27/)](https://www.instagram.com/silviajcn27/) -->
 ![](https://komarev.com/ghpvc/?username=silviajcn&color=blue)
 
 
@@ -72,8 +72,9 @@ My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!�
 
 ### 📕 Literary Hobbies
 
+I am the creator of a blog where I share poetry and literature in Spanish. You can enjoy a good read in your moments of rest with just one click 👇
+
 <!-- BLOG-POST-LIST:START -->
 - [Vomité un Conejito Blog](https://vomiteunconejito.wordpress.com/)
 - [Vomité un Conejito on Twitter](https://twitter.com/vomitunconejito)
-- [Silvi's Library](https://silvislibrary.wordpress.com/)
 <!-- BLOG-POST-LIST:END -->
