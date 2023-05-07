@@ -6,7 +6,7 @@ My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!�
 
 ### About me 👩‍💻
 
-- 💻 I’m currently learn Databases and TypeScript.
+- 💻 I’m currently learning Databases and TypeScript.
 - 🥅 2022 & 2023 Goals:
   - Create a page as a library to record my readings. 📚
   - Improve my english. 😍
