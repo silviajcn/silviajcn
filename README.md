@@ -17,11 +17,11 @@ My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!â
 <!-- - ðŸŒ Currently living in Colombia.-->
 <!-- - Get my first job as a Front-End developer. ðŸ”¥ âœ…  -->
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/silviajcn"></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silviajcn&show_icons=true&theme=dracula&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviajcn&layout=compact&langs_count=5&theme=dracula"/>
-</div> 
+</div> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+FrontEnd+Developer+and+Reader+)](https://git.io/typing-svg) -->
   
@@ -55,9 +55,9 @@ My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!â
 
 ### Connect with me:
 
-[![My portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=Hack+The+Box&logoColor=white&link=https://silviajcn.vercel.app//)](https://www.linkedin.com/in/silviajcn/)
+<!--[![My portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=Hack+The+Box&logoColor=white&link=https://silviajcn.vercel.app//)](https://www.linkedin.com/in/silviajcn/)-->
 [![Linkedin Badge](https://img.shields.io/badge/-silviajcn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviajcn/)](https://www.linkedin.com/in/silviajcn/)
-[![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
+<!--[![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)-->
 <!--[![Instagram Badge](https://img.shields.io/badge/-@silviajcn27-ff69b4?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/silviajcn27/)](https://www.instagram.com/silviajcn27/) -->
 ![](https://komarev.com/ghpvc/?username=silviajcn&color=blue)
 
