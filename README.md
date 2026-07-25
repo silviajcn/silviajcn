@@ -6,16 +6,15 @@ My name is Silvia Corrales and I'm a Front End Developer. Welcome to my GitHub!�
 
 ### About me 👩‍💻
 
-- 💻 I’m currently learning Databases and TypeScript.
-- 🥅 2022 & 2023 Goals:
+- 💻 I’m currently working as a Front Dev.
+- 🥅 2026 & 2027 Goals:
   - Create a page as a library to record my readings. 📚
   - Improve my english. 😍
 - 💫 Future goals:
-  - Learn React Native & Golang language. 🤓
+  <!-- - Learn React Native & Golang language. 🤓 -->
   - Learn italian. 😍
 - ⚡ Fun fact: I love read and workouts.
 <!-- - 🌍 Currently living in Colombia.-->
-<!-- - Get my first job as a Front-End developer. 🔥 ✅  -->
 
 <!--<div align="center">
   <a href="https://github.com/silviajcn"></a>
